@@ -17,7 +17,8 @@
 @@||clients4.google.com
 @@||connectivitycheck.gstatic.com
 @@||csi.gstatic.com
-#@@||firebaselogging-pa.googleapis.com
+@@||firebaselogging.googleapis.com
+@@||firebaselogging-pa.googleapis.com
 @@||fonts.googleapis.com
 @@||footprints-pa.googleapis.com
 @@||fonts.gstatic.com

@@ -16,6 +16,7 @@
 @@||clients.l.google.com
 @@||clients4.google.com
 @@||csi.gstatic.com
+@@||firebaselogging-pa.googleapis.com
 @@||fonts.googleapis.com
 @@||fonts.gstatic.com
 @@||geller-pa.googleapis.com

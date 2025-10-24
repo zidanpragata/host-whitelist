@@ -4,7 +4,7 @@
 @@||airquality.googleapis.com
 @@||android.googleapis.com
 @@||arcore.googleapis.com
-#@@||app-measurement.com
+@@||app-measurement.com
 @@||cbks0.google.com
 @@||cbks0.googleapis.com
 @@||cbks1.google.com
@@ -58,6 +58,7 @@
 @@||mobilemaps.googleapis.com
 @@||mobilemaps-pa-gz.googleapis.com
 @@||mt.l.google.com
+@@||notifications-pa.googleapis.com
 @@||pollen.googleapis.com
 @@||roads.googleapis.com
 @@||routes.googleapis.com

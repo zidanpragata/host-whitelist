@@ -19,6 +19,7 @@
 @@||firebaselogging-pa.googleapis.com
 @@||fonts.googleapis.com
 @@||fonts.gstatic.com
+@@||fundingchoicesmessages.google.com
 @@||geller-pa.googleapis.com
 @@||geo0.ggpht.com
 @@||geo1.ggpht.com

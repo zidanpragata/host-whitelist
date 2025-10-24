@@ -15,9 +15,11 @@
 @@||cbks3.googleapis.com
 @@||clients.l.google.com
 @@||clients4.google.com
+@@||connectivitycheck.gstatic.com
 @@||csi.gstatic.com
-@@||firebaselogging-pa.googleapis.com
+#@@||firebaselogging-pa.googleapis.com
 @@||fonts.googleapis.com
+@@||footprints-pa.googleapis.com
 @@||fonts.gstatic.com
 @@||fundingchoicesmessages.google.com
 @@||geller-pa.googleapis.com
@@ -62,6 +64,7 @@
 @@||mt.l.google.com
 @@||notifications-pa.googleapis.com
 @@||pollen.googleapis.com
+@@||proactivebackend-pa.googleapis.com
 @@||roads.googleapis.com
 @@||routes.googleapis.com
 @@||servicename.googleapis.com
